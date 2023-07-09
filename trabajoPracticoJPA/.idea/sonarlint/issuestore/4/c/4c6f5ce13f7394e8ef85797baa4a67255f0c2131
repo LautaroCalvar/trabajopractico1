@@ -1,0 +1,14 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(΅¥®½ϊÿÿÿÿ8­‹™ς‘1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Δ”ςª
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Υι¶
+U
+java:S1854":Remove this useless assignment to local variable "alumno".(³γ•ϊÿÿÿÿ
+`
+java:S1854">Remove this useless assignment to local variable "alumnoList".(΅¥®½ϊÿÿÿÿ8Ζ‹™ς‘1
+[
+java:S1854">Remove this useless assignment to local variable "alumnoList".(μικά8ΠΎς‘1
+L
+java:S1481"/Remove this unused "alumnoList" local variable.(μικά8Κ‹™ς‘1
